@@ -6,7 +6,7 @@ BA/BSc Digital Media Design, BA/BSc Internet Design, BA Game Arts & Design
 Module Leader: Stavros Didakis  
 University of Plymouth, Fall 2018__
 
-Computational tools and platforms have allowed a new era of creativity across multiple media, systems, and modes of interaction. In this course, students will utilize contemporary development tools and programming frameworks to build novel media systems, games, and applications, using mainly Javascript and the P5.Js and Phaser.Js libraries. Additionally, HTML and CSS will be introduced to define the structure and look of the finalized projects. This twenty-credit module will be delivered for a duration of 5 weeks for this semester (Fall 2017).
+Computational tools and platforms have allowed a new era of creativity across multiple media, systems, and modes of interaction. In this course, students will utilize contemporary development tools and programming frameworks to build novel media systems, games, and applications, using mainly Javascript and the P5.Js and Phaser.Js libraries. Additionally, HTML and CSS will be introduced to define the structure and look of the finalized projects.  
 
 __Evaluation__
 
