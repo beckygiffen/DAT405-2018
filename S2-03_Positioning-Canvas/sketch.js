@@ -1,3 +1,6 @@
+//DAT405 / GAD405
+//S2-03_Positioning-Canvas
+
 function setup() {
   createCanvas(300, 300);
   background(255, 0, 255);
