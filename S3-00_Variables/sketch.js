@@ -2,6 +2,14 @@
 //S3-00_Variables
 
 function setup() {
+  createCanvas(500,500);
+  background(60);
+
+  textSize(22)
+  fill(255);
+  text("Open the Developer > Javascript Console", 10, 100);
+  text("to see the messages", 10, 130);
+
   //Setup variables with any content - text, numbers, etc
   var name;
   name = "Glenn";

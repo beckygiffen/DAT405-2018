@@ -21,5 +21,4 @@ function draw() {
   fill(255);
   text("Open the Developer > Javascript Console", 10, 100);
   text("to see the nested-loop number values", 10, 130);
-
 }
