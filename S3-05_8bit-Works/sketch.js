@@ -1,11 +1,11 @@
 let size = 50;
 let img = [];
-let names = ["AlexanderJones", "Antony Pye", "Arthur Verrept", "Bacson Dias Graca",
+let names = ["Alexander Jones", "Antony Pye", "Arthur Verrept", "Bacson Dias Graca",
 "Becky Giffen", "Bronwyn Turner","Charlie Whitehair", "Claire Stranack",
 "Daniel Smith", "Kieran Palmer", "Kira Dannan", "Luke Boatfield",
-"Matthew Gammage", "Melissa Junttila", "Mike Austin", "NatalieChan",
+"Matthew Gammage", "Melissa Junttila", "Mike Austin", "Natalie Chan",
 "Oliver Jeffery", "Ronan Harbutt", "Rosie Dine", "Ryan Ede",
-"Sean Thoburn Sword", "Summer Ashbury"];
+"Sean Thoburn Sword", "Summer Ashbury", "Arianna Fox-Armstrong"];
 
 let randomValue = 0;
 
@@ -37,6 +37,7 @@ function setup() {
   img[19] = loadImage("images/RyanEde.png");
   img[20] = loadImage("images/SeanThoburnSword.png");
   img[21] = loadImage("images/SummerAshbury.png");
+  img[22] = loadImage("images/AriannaFox-Armstrong.png");
 }
 
 function draw() {
@@ -48,5 +49,5 @@ function draw() {
 
 function mouseReleased() {
   randomValue = Math.round(random(img.length-1));
-  //console.log(randomValue);
+  console.log(randomValue);
 }
